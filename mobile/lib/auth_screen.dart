@@ -23,7 +23,7 @@ class _AuthScreenState extends State<AuthScreen> {
   String _email = '';
   String _password = '';
 
-  final String baseUrl = 'http://192.168.1.19:8000';
+  final String baseUrl = 'https://english-ai-app-s4ed.onrender.com';
 
   Future<void> _submitAuthForm() async {
     final isValid = _formKey.currentState!.validate();

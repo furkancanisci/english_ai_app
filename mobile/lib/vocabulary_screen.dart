@@ -16,7 +16,7 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
   List<Map<String, dynamic>> savedWords = [];
   final FlutterTts flutterTts = FlutterTts();
 
-  final String baseUrl = 'http://192.168.1.19:8000';
+  final String baseUrl = 'https://english-ai-app-s4ed.onrender.com';
 
   @override
   void initState() {

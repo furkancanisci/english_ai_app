@@ -32,7 +32,7 @@ class _ChatScreenState extends State<ChatScreen> {
 
   String selectedLanguage = 'en';
 
-  final String baseUrl = 'http://192.168.1.19:8000';
+  final String baseUrl = 'https://english-ai-app-s4ed.onrender.com';
 
   Future<void> _completeUnit() async {
     try {
