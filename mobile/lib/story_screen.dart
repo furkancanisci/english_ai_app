@@ -24,8 +24,8 @@ class _StoryScreenState extends State<StoryScreen> {
   bool showTranslation = false;
   String? storyTranslation;
 
-  final String baseUrl = 'http://192.168.1.19:8000/story';
-  final String apiBase = 'http://192.168.1.19:8000';
+  final String baseUrl = 'https://english-ai-app-s4ed.onrender.com/story';
+  final String apiBase = 'https://english-ai-app-s4ed.onrender.com';
 
   @override
   void dispose() {
