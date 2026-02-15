@@ -1,4 +1,4 @@
-# 🎓 English AI Learning App
+# 🎓 Learn Correct English Learning App
 
 **Flutter & FastAPI based intelligent English learning application**
 
